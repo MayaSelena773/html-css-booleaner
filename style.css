@@ -20,6 +20,15 @@ body{
 .celeste{
         color: rgb(168, 221, 247);
 }
+.tableblue{
+    background-color: rgb(32, 169, 229);
+}
+.white{
+    color: white;
+}
+.highlighted{
+    background-color: yellow;
+}
 .footer{
     color: grey;
     font-weight: 800;
