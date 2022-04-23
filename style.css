@@ -20,9 +20,11 @@ header{
 h1{
     font-size: 50px;
 }
-
+.author{
+    font-size: 20px;
+}
 .celeste{
-        color: rgb(168, 221, 247);
+        color:rgb(0, 157, 232) ;
         font-weight: 800;
 }
 .grey{
