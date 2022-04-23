@@ -31,6 +31,12 @@ h1{
     color: rgb(138, 138, 138);
     font-weight: 800;
 }
+.images{
+    margin-top: 30px;
+}
+.content {
+    margin-bottom: 20px;
+}
 .tableblue{
     background-color: rgb(32, 169, 229);
 }
@@ -39,6 +45,9 @@ h1{
 }
 .white{
     color: white;
+}
+.margintab{
+    margin-bottom: 20px;
 }
 .highlighted{
     background-color: yellow;
